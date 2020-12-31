@@ -5,4 +5,7 @@
 textarea{
 width: 70%;
 border: 2px solid blue;
+padding: 2px ;
+text-align: center;
+font-size: 150%;
 }
